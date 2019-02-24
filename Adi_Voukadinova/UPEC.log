@@ -1,0 +1,60 @@
+The HM27 gene has 284 contigs.
+The HM27 gene has 5161340 base pairs in its assembly.
+
+The HM46 gene has 42 contigs.
+The HM46 gene has 4961831 base pairs in its assembly.
+
+The HM65 gene has 75 contigs.
+The HM65 gene has 5156838 base pairs in its assembly.
+
+The HM69 gene has 124 contigs.
+The HM69 gene has 5367837 base pairs in its assembly.
+
+Prokka command used for HM27 is: prokka --prefix HM27 --usegenus --genus Escherichia HM27.fna
+Prokka annotation of HM27 is: 
+organism: Escherichia species strain 
+contigs: 284
+bases: 5161340
+CDS: 4785
+tmRNA: 1
+tRNA: 74
+
+Prokka found 199 less CDS and 0 more tRNA than the RefSeq in assembly HM27
+
+
+Prokka command used for HM46 is: prokka --prefix HM46 --usegenus --genus Escherichia HM46.fna
+Prokka annotation of HM46 is: 
+organism: Escherichia species strain 
+contigs: 42
+bases: 4961831
+tmRNA: 1
+tRNA: 81
+CDS: 4587
+
+Prokka found 196 less CDS and 3 more tRNA than the RefSeq in assembly HM46
+
+
+Prokka command used for HM65 is: prokka --prefix HM65 --usegenus --genus Escherichia HM65.fna
+Prokka annotation of HM65 is: 
+organism: Escherichia species strain 
+contigs: 75
+bases: 5156838
+tRNA: 78
+tmRNA: 2
+CDS: 4824
+
+Prokka found 194 less CDS and 1 more tRNA than the RefSeq in assembly HM65
+
+
+Prokka command used for HM69 is: prokka --prefix HM69 --usegenus --genus Escherichia HM69.fna
+Prokka annotation of HM69 is: 
+organism: Escherichia species strain 
+contigs: 124
+bases: 5367837
+tRNA: 76
+tmRNA: 1
+CDS: 5034
+
+Prokka found 265 less CDS and 3 more tRNA than the RefSeq in assembly HM69
+
+
