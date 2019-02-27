@@ -10,8 +10,9 @@ PLEASE READ PRIOR TO RUNNING THE PYTHON WRAPPER!
 ** Reqired software **
 1. Prokka
 2. Cufflinks
-3. Tophat/Tophat2
-4. Biopython
+3. Bowtie 2
+4. Tophat/Tophat2
+5. Biopython
 
 ** Things to note **
 1. The os.system commands use 4 threads. This is to prevent crashing.
